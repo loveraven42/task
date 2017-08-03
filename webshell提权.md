@@ -1,0 +1,2 @@
+- [windows提权总结](http://www.91ri.org/7894.html)
+- [linux提权](http://www.91ri.org/7911.html)
